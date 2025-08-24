@@ -1,0 +1,13 @@
+Name,Type,Duration,Description
+Registration & Welcome,countdown,600,Welcome coffee and registration desk
+Opening Keynote,countdown,2700,CEO Welcome and Company Vision
+Technical Deep Dive,countdown,3600,Architecture and Implementation Details
+Coffee Break,countdown,900,Networking and refreshments
+Panel Discussion,countdown,2100,Industry Expert Panel
+Lunch Break,countdown,3600,Networking lunch in main hall
+Workshop A - Beginners,countdown,5400,Hands-on workshop for beginners
+Workshop B - Advanced,countdown,5400,Advanced techniques and patterns
+Q&A with Experts,countup,1800,Open floor questions and answers
+Closing Remarks,countdown,900,Thank you and next steps
+Networking Reception,countup,7200,Drinks and networking
+Evening Presentation,countdown,1800,Special evening keynote
